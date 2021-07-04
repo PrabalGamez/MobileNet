@@ -1,0 +1,58 @@
+body{
+    background-color: #757573;
+    font-family: 'Castoro', serif;
+}
+.header_div{
+    background-color: white;
+    color: black;
+}
+.header_div img{
+    width: 100px;
+}
+.main_div{
+    border: 10px solid #757573;
+    background-color: #E5EBCA;
+    padding: 10px;
+    margin-top: 15px;
+}
+.main_div label{
+    width: 310px;
+    padding: 10px;
+    background-color: #FFF6E0;
+    border-radius: 50px;
+    box-shadow: 5px 5px 18px #FFEFE0;
+    margin-bottom: 0px;
+}
+#camera, #result{
+    width: 320px;
+    height: 300px;
+    border: 2px dashed #E8E2D8;
+    box-shadow: 1px 1px 13px #C2FCC3;
+}
+.main_div button{
+    width: 310px;
+    font-size: 16px;
+    background-color: #EAFCC2;
+    border: 1px solid;
+}
+.foot_div{
+    margin-bottom: 50px;
+}
+.foot_div h4{
+    background-color: #F5F4F0;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 18px #F5F4F0;
+}
+.foot_div img{
+    width: 80px;
+}
+.cpy_right{
+    background-color: #9A9E88;
+    color: #E5EBCA;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 2;
+}
